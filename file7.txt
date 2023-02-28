@@ -1,1 +1,2 @@
 Selinium Manual testing
+automation testing
